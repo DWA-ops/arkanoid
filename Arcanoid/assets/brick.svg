@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="92" height="43" viewBox="0 0 91.4165 42.6611" fill="none">
+  <!-- extracted from arkanoid.svg (one brick design) -->
+  <g transform="translate(-25 -191.141)">
+    <rect x="25" y="191.141" width="91.4165" height="42.6611" rx="21.3305" fill="#843B7A"/>
+    <path d="M99.8254 227.015C105.846 223.266 107.689 215.347 103.941 209.326L82.1367 222.899C85.8849 228.92 93.8044 230.763 99.8254 227.015Z" fill="#D671C8"/>
+    <ellipse cx="95.4853" cy="222.815" rx="3.41112" ry="6.04002" fill="black"/>
+    <path d="M42.1355 227.015C36.1145 223.266 34.272 215.347 38.0203 209.326L59.8242 222.899C56.076 228.92 48.1565 230.763 42.1355 227.015Z" fill="#D671C8"/>
+    <ellipse cx="3.41112" cy="6.04002" rx="3.41112" ry="6.04002" transform="matrix(-1 0 0 1 49.8867 216.775)" fill="black"/>
+  </g>
+</svg>

@@ -1,0 +1,26 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  background: #DAD5FF;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
+}
+
+/* Рамка вокруг игры, по центру */
+.game-wrapper {
+  padding: 0;
+  border-radius: 0;
+  border: none;
+  background: transparent;
+}
+
+/* Игровое поле со скруглением */
+#gameCanvas {
+  background: transparent;
+  border-radius: 0;
+  display: block;
+  touch-action: none; /* для тача на телефоне */
+}
